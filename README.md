@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 </p>
 
-
+---
 ### 🖥 **Workspace Specs:**
 <p align="center">
   <img height="30" src="https://img.shields.io/badge/Ubuntu-18.06-76257A?style=for-the-badge&logo=ubuntu&logoColor=white"/>
