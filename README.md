@@ -10,7 +10,7 @@ Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technol
 </p>
 
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raghul-M&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Raghul Profile Visits" />    
+<img src="https://komarev.com/ghpvc/?username=Thirunavukarasu11&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Thirunavukarasu11 Profile Visits" />
   <!-- <a href="https://raghul.in"><img alt="Portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a> -->
 <p align="center">
 
