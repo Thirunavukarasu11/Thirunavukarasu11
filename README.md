@@ -8,30 +8,29 @@
 <p align="center">
 Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technology. I specialize in SQL, Python, and data analytics, always eager to innovate and create impactful solutions.
 </p>
-
-
-<section align="center">
-  <h3>🚀 <strong>Currently Learning:</strong></h3>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>🔹 Advanced SQL</li>
-    <li>🔹 Data Visualization</li>
-    <li>🔹 Flask for Web Development</li>
+  
+<section style="text-align: center; padding: 20px; font-family: Arial, sans-serif;">
+  <h2 style="font-size: 24px; color: #4CAF50;">🚀 <strong>Currently Learning:</strong></h2>
+  <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333;">
+    <li>🔹 <strong>Advanced SQL</strong></li>
+    <li>🔹 <strong>Data Visualization</strong></li>
+    <li>🔹 <strong>Flask for Web Development</strong></li>
   </ul>
 
-  <h3>👯 <strong>Looking to Collaborate on:</strong></h3>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>🔹 Data Analysis Projects</li>
-    <li>🔹 Flask-Based Applications</li>
+  <h2 style="font-size: 24px; color: #FF9800;">👯 <strong>Looking to Collaborate on:</strong></h2>
+  <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333;">
+    <li>🔹 <strong>Data Analysis Projects</strong></li>
+    <li>🔹 <strong>Flask-Based Applications</strong></li>
   </ul>
 
-  <h3>💬 <strong>Ask me about:</strong></h3>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>🔹 SQL Queries</li>
-    <li>🔹 Data Cleaning & Preparation</li>
-    <li>🔹 Python Programming</li>
+  <h2 style="font-size: 24px; color: #2196F3;">💬 <strong>Ask me about:</strong></h2>
+  <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333;">
+    <li>🔹 <strong>SQL Queries</strong></li>
+    <li>🔹 <strong>Data Cleaning & Preparation</strong></li>
+    <li>🔹 <strong>Python Programming</strong></li>
   </ul>
 </section>
-g
+
 
 <h2 align="center"> Connect with me on :  </h2>
 
