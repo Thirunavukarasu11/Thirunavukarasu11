@@ -9,27 +9,33 @@
 Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technology. I specialize in SQL, Python, and data analytics, always eager to innovate and create impactful solutions.
 </p>
   
-<section style="text-align: center; padding: 20px; font-family: Arial, sans-serif;">
-  <h2 style="font-size: 24px; color: #4CAF50;">🚀 <strong>Currently Learning:</strong></h2>
-  <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333;">
+<section style="text-align: center; padding: 40px 20px; font-family: 'Arial', sans-serif; background-color: #f4f4f9; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); max-width: 800px; margin: auto;">
+
+  <!-- Currently Learning Section -->
+  <h2 style="font-size: 28px; color: #4CAF50; font-weight: 600; margin-bottom: 20px;">🚀 <strong>Currently Learning</strong></h2>
+  <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333; line-height: 1.8;">
     <li>🔹 <strong>Advanced SQL</strong></li>
     <li>🔹 <strong>Data Visualization</strong></li>
     <li>🔹 <strong>Flask for Web Development</strong></li>
   </ul>
 
-  <h2 style="font-size: 24px; color: #FF9800;">👯 <strong>Looking to Collaborate on:</strong></h2>
-  <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333;">
+  <!-- Looking to Collaborate Section -->
+  <h2 style="font-size: 28px; color: #FF9800; font-weight: 600; margin-top: 40px; margin-bottom: 20px;">👯 <strong>Looking to Collaborate on</strong></h2>
+  <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333; line-height: 1.8;">
     <li>🔹 <strong>Data Analysis Projects</strong></li>
     <li>🔹 <strong>Flask-Based Applications</strong></li>
   </ul>
 
-  <h2 style="font-size: 24px; color: #2196F3;">💬 <strong>Ask me about:</strong></h2>
-  <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333;">
+  <!-- Ask Me About Section -->
+  <h2 style="font-size: 28px; color: #2196F3; font-weight: 600; margin-top: 40px; margin-bottom: 20px;">💬 <strong>Ask me about</strong></h2>
+  <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333; line-height: 1.8;">
     <li>🔹 <strong>SQL Queries</strong></li>
     <li>🔹 <strong>Data Cleaning & Preparation</strong></li>
     <li>🔹 <strong>Python Programming</strong></li>
   </ul>
+
 </section>
+
 
 
 <h2 align="center"> Connect with me on :  </h2>
