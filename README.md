@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | Fresher</h3>
 
 <p align="center">
-  <img align="right" width="350" height="270" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding Animation">
+  <img align="center" alt="Coding" width="1200" height="300" src="https://github.com/Raghul-M/Raghul-M/assets/71755586/a8a6e7a0-4c91-4373-99fe-2e63ed9d3b69">
 </p>
 
 ---
