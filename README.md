@@ -1,46 +1,69 @@
-# Hi there 👋 It's me **Thirunavukarasu**
+<h1 align="center">
+  Hello there, I'm [Thirunavukarasu](https://thirunavukarasu.in) 👋
+</h1>
 
-**Aspiring Data Analyst | Fresher**  
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding Animation">
+<img align="center" alt="Coding" width="1200" height="300" src="https://github.com/Raghul-M/Raghul-M/assets/71755586/a8a6e7a0-4c91-4373-99fe-2e63ed9d3b69">
 
----
+<div><br><br>
 
-### 🔭 Here's my [Portfolio](https://your-portfolio-link.com)
+  <p align="center">
+    Hey there, I'm Thirunavukarasu! I'm a passionate software developer, focusing on Python, SQL, and Web Development. My journey has been about solving real-world problems with technology, and I'm excited to share what I know with the community.
+  </p>
+ 
+  <h3 align="center"> Developer | Data Analyst | Tech Enthusiast </h3>
+</div>
 
-### 🌱 Currently Learning
-- Advanced SQL
-- Data Visualization
-- Flask for Web Development
-
-### 👯 I’m looking to collaborate on
-- Data Analysis Projects
-- Flask-Based Applications
-
-### 💬 Ask me about
-- SQL Queries
-- Data Cleaning and Preparation
-- Python Programming
-
-### 📫 How to reach me:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/thiru11) 
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Thiru11github)
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Thirunavukarasu-Cod&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Thirunavukarasu Profile Visits" />    
+    <a href="https://thirunavukarasu.in"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Google" /></a>
+    <a href="https://www.linkedin.com/in/thiru11"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" /></a>
+    <a href="https://github.com/Thiru11github"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/flask.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/numpy.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pandas.png"/>
+## 🌟 About Me
+
+I'm a Computer Science graduate with experience as a Data Engineer intern. I'm passionate about data, development, and web technologies. I love learning new technologies and working on projects that make a difference.
 
 ---
 
-### ⚙️ Tools and IDEs I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/jupyter.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
+## 🔧 Technologies & Tools
+
+- **Languages**: Python, SQL, HTML, CSS
+- **Libraries/Frameworks**: Flask, Pandas, BeautifulSoup, Jupyter, VS Code
+- **Databases**: MySQL, PostgreSQL
+- **Tools**: Git, Docker, Visual Studio Code, Linux
 
 ---
 
-### 💻 Workspace Specs
-<img height="30" src="https://img.shields.io/badge/Ubuntu-18.06-76257A?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
-<img height="30" src="https://img.shields.io/badge/Intel-i5-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> 
+## 📂 Projects
+
+- **[Swiggy Data Analysis](https://github.com/Thiru11github)**: Analyzing restaurant data from Swiggy for business insights.
+- **[Web Scraping Project](https://github.com/Thiru11github)**: Scraping data from various websites like IMDb and Hacker News for analysis.
+- **[Flask Email Auto-Generator](https://github.com/Thiru11github)**: Building an email automation app using Flask.
 
 ---
 
-![Thirunavukarasu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiru11github&theme=dark&show_icons=true&&hide=issues,contribs)
+## 🧑‍💻 Current Focus
+
+I am currently focused on enhancing my Python and SQL skills while building projects involving data analysis and web development. I'm also working on mastering Flask for backend development and learning more about DevOps.
+
+---
+
+## 📚 Education
+
+- **B.Tech in Computer Science** | [University Name], India
+
+---
+
+## 🚀 Let's Connect!
+
+- [Portfolio](https://thirunavukarasu.in)
+- [LinkedIn](https://www.linkedin.com/in/thiru11)
+- [GitHub](https://github.com/Thiru11github)
+
+---
+
+Thank you for visiting my profile! Feel free to connect or reach out to me for collaborations, open-source contributions, or just to talk tech! ✌️
+
