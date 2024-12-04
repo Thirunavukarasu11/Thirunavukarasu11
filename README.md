@@ -5,15 +5,9 @@
 <img align="center" alt="Coding" width="1200" height="300" src="https://raw.githubusercontent.com/Thirunavukarasu11/Pic/main/banner.jpg">
 </p>
 
----
-
 <p align="center">
-  <a href="https://your-portfolio-link.com">
-    <strong>🔭 My Portfolio</strong>
-  </a>
+Hey there, I'm Thirunavukarasu! I'm a data enthusiast, passionate about leveraging technology to drive insights and solve real-world problems. I enjoy working with SQL, Python, and exploring various data analytics techniques. When I'm not analyzing data, I love learning about new tech trends, web development, and sharing my knowledge with the community.
 </p>
-
----
 
 ### 🚀 **Currently Learning:**
 - Advanced SQL
