@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | Fresher</h3>
 
 <p align="center">
-<img align="center" alt="Coding" width="1200" height="300" src="file:///C:/Users/thirunavukarasu/Pictures/in%20bg.jpg">
+<img align="center" alt="Coding" width="1200" height="300" src="file:///C:/Users/thirunavukarasu/Pictures/banner.jpg">
 </p>
 
 ---
