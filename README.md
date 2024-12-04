@@ -4,8 +4,7 @@
 <p align="center">
 <img align="center" alt="Coding" width="1200" height="300" src="https://raw.githubusercontent.com/Thirunavukarasu11/Pic/main/banner.jpg">
 </p>
-
-
+<div><br><br>
 <p align="center">
 Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technology. I specialize in SQL, Python, and data analytics, always eager to innovate and create impactful solutions.
 </p>
