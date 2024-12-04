@@ -2,7 +2,7 @@
 
 
 <p align="center">
-https://github.com/Thirunavukarasu11/linkedin-Bg-banner/blob/main/banner.jpg</p>
+[https://github.com/Thirunavukarasu11/linkedin-Bg-banner/blob/main/banner.jpg](https://github.com/Thirunavukarasu11/linkedin-Bg-banner/blob/main/banner.jpg)</p>
 <div><br><br>
 <p align="center">
 Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technology. I specialize in SQL, Python, and data analytics, always eager to innovate and create impactful solutions.
