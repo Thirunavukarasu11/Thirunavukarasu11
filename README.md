@@ -62,26 +62,4 @@ Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technol
   <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 </p>
 
----
-### 🖥 **Workspace Specs:**
-<p align="center">
-  <img height="30" src="https://img.shields.io/badge/Ubuntu-18.06-76257A?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/Intel-i5-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-</p>
 
----
-
-### 📊 **GitHub Stats:**
-![Thirunavukarasu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiru11github&theme=dark&show_icons=true&&hide=issues,contribs)
-
----
-
-### 📢 **Fun Fact:**
-- I'm always looking for ways to optimize processes, be it data or web development!
-- I am passionate about combining the power of data with programming to solve real-world problems.
-
----
-
-<p align="center">
-  <strong>Thanks for stopping by!</strong> Feel free to connect and let's learn together. 🙌
-</p>
