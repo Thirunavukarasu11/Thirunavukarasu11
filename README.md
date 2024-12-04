@@ -10,19 +10,28 @@ Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technol
 </p>
 
 
-### 🚀 **Currently Learning:**
-- Advanced SQL
-- Data Visualization
-- Flask for Web Development
+<section align="center">
+  <h3>🚀 <strong>Currently Learning:</strong></h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>🔹 Advanced SQL</li>
+    <li>🔹 Data Visualization</li>
+    <li>🔹 Flask for Web Development</li>
+  </ul>
 
-### 👯 **Looking to Collaborate on:**
-- Data Analysis Projects
-- Flask-Based Applications
+  <h3>👯 <strong>Looking to Collaborate on:</strong></h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>🔹 Data Analysis Projects</li>
+    <li>🔹 Flask-Based Applications</li>
+  </ul>
 
-### 💬 **Ask me about:**
-- SQL Queries
-- Data Cleaning & Preparation
-- Python Programming
+  <h3>💬 <strong>Ask me about:</strong></h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>🔹 SQL Queries</li>
+    <li>🔹 Data Cleaning & Preparation</li>
+    <li>🔹 Python Programming</li>
+  </ul>
+</section>
+g
 
 <h2 align="center"> Connect with me on :  </h2>
 
