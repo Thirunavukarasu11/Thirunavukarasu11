@@ -2,7 +2,8 @@
 
 
 <p align="center">
-[https://github.com/Thirunavukarasu11/linkedin-Bg-banner/blob/main/banner.jpg](https://github.com/Thirunavukarasu11/linkedin-Bg-banner/blob/main/banner.jpg)</p>
+<img src="https://raw.githubusercontent.com/Thirunavukarasu11/linkedin-Bg-banner/main/banner.jpg" alt="LinkedIn Banner">
+
 <div><br><br>
 <p align="center">
 Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technology. I specialize in SQL, Python, and data analytics, always eager to innovate and create impactful solutions.
