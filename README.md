@@ -8,7 +8,13 @@
 <p align="center">
 Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technology. I specialize in SQL, Python, and data analytics, always eager to innovate and create impactful solutions.
 </p>
-  
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raghul-M&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Raghul Profile Visits" />    
+  <!-- <a href="https://raghul.in"><img alt="Portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a> -->
+<p align="center">
+
+
 <section style="text-align: center; padding: 40px 20px; font-family: 'Arial', sans-serif; background-color: #f4f4f9; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); max-width: 800px; margin: auto;">
 
   <!-- Currently Learning Section -->
