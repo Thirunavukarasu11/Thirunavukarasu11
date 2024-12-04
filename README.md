@@ -5,9 +5,11 @@
 <img align="center" alt="Coding" width="1200" height="300" src="https://raw.githubusercontent.com/Thirunavukarasu11/Pic/main/banner.jpg">
 </p>
 
+
 <p align="center">
-Hey there, I'm Thirunavukarasu! I'm a data enthusiast, passionate about leveraging technology to drive insights and solve real-world problems. I enjoy working with SQL, Python, and exploring various data analytics techniques. When I'm not analyzing data, I love learning about new tech trends, web development, and sharing my knowledge with the community.
+Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technology. I specialize in SQL, Python, and data analytics, always eager to innovate and create impactful solutions.
 </p>
+
 
 ### 🚀 **Currently Learning:**
 - Advanced SQL
