@@ -11,7 +11,7 @@ Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technol
 
   <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Thirunavukarasu11&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Thirunavukarasu11 Profile Visits" />
-  <a href="[https://thirunavukarasu11-portfolio.netlify.app/](https://thirunavukarasu11-portfolio.netlify.app/)"><img alt="Portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+  <a href="https://thirunavukarasu11-portfolio.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 <p align="center">
 
 
@@ -55,7 +55,7 @@ Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technol
   <a href="https://linkedin.com/in/thiru11"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/its_me_thiru.__/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://x.com/crazy_boy_thiru"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="[https://thirunavukarasu11-portfolio.netlify.app/](https://thirunavukarasu11-portfolio.netlify.app/)">
+  <a href="https://thirunavukarasu11-portfolio.netlify.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
 </a>
 </a> 
