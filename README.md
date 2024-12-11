@@ -20,24 +20,24 @@ Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technol
   <!-- Currently Learning Section -->
   <h2 style="font-size: 28px; color: #4CAF50; font-weight: 600; margin-bottom: 20px;">🚀 <strong>Currently Learning</strong></h2>
   <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333; line-height: 1.8;">
-    <li>🔹 <strong>Advanced SQL</strong></li>
-    <li>🔹 <strong>Data Visualization</strong></li>
-    <li>🔹 <strong>Flask for Web Development</strong></li>
+    <li> <strong>Advanced SQL</strong></li>
+    <li> <strong>Data Visualization</strong></li>
+    <li> <strong>Flask for Web Development</strong></li>
   </ul>
 
   <!-- Looking to Collaborate Section -->
   <h2 style="font-size: 28px; color: #FF9800; font-weight: 600; margin-top: 40px; margin-bottom: 20px;">👯 <strong>Looking to Collaborate on</strong></h2>
   <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333; line-height: 1.8;">
-    <li>🔹 <strong>Data Analysis Projects</strong></li>
-    <li>🔹 <strong>Flask-Based Applications</strong></li>
+    <li> <strong>Data Analysis Projects</strong></li>
+    <li> <strong>Flask-Based Applications</strong></li>
   </ul>
 
   <!-- Ask Me About Section -->
   <h2 style="font-size: 28px; color: #2196F3; font-weight: 600; margin-top: 40px; margin-bottom: 20px;">💬 <strong>Ask me about</strong></h2>
   <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333; line-height: 1.8;">
-    <li>🔹 <strong>SQL Queries</strong></li>
-    <li>🔹 <strong>Data Cleaning & Preparation</strong></li>
-    <li>🔹 <strong>Python Programming</strong></li>
+    <li> <strong>SQL Queries</strong></li>
+    <li> <strong>Data Cleaning & Preparation</strong></li>
+    <li> <strong>Python Programming</strong></li>
   </ul>
 
 </section>
