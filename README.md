@@ -48,12 +48,6 @@ Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technol
   <li> <strong>Flask Email Campaign</strong>: Automating personalized email generation.</li>
 </ul>
 
-<!-- Final Call to Action -->
-<h2 style="font-size: 28px; color: #673AB7; font-weight: 600; margin-top: 40px; margin-bottom: 20px;">💡 <strong>Let’s connect, collaborate, and create something impactful together!</strong></h2>
-
-
-
-
 <h2 align="center"> Connect with me on :  </h2>
 
 <div align="center">
