@@ -17,19 +17,12 @@ Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technol
 
 <section style="text-align: center; padding: 40px 20px; font-family: 'Arial', sans-serif; background-color: #f4f4f9; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); max-width: 800px; margin: auto;">
 
-  <!-- Currently Learning Section -->
-<h2 style="font-size: 28px; color: #4CAF50; font-weight: 600; margin-bottom: 20px;">🚀 <strong>Currently Learning</strong></h2>
-<ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333; line-height: 1.8;">
-  <li> <strong>Advanced SQL</strong> for managing complex datasets.</li>
-  <li> <strong>Data Visualization</strong> to craft compelling data stories.</li>
-  <li> <strong>Flask</strong> for building scalable and dynamic web applications.</li>
-</ul>
-
-<!-- Looking to Collaborate Section -->
-<h2 style="font-size: 28px; color: #FF9800; font-weight: 600; margin-top: 40px; margin-bottom: 20px;">👯 <strong>Looking to Collaborate On</strong></h2>
+  <!-- Looking to Collaborate Section -->
+<h2 style="font-size: 28px; color: #FF9800; font-weight: 600; margin-bottom: 20px;">👯 <strong>Looking to Collaborate On</strong></h2>
 <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333; line-height: 1.8;">
   <li> <strong>Data Analysis Projects</strong> involving actionable insights.</li>
   <li> <strong>Flask-Based Applications</strong>, especially those requiring interactive dashboards.</li>
+  <li> <strong>Python Automation</strong> for streamlining workflows and tasks.</li>
 </ul>
 
 <!-- Ask Me About Section -->
@@ -39,6 +32,7 @@ Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technol
   <li> <strong>Data Cleaning & Preprocessing</strong> techniques.</li>
   <li> <strong>Writing Python scripts</strong> for automation and analysis.</li>
 </ul>
+
 
 <!-- Portfolio Highlights Section -->
 <h2 style="font-size: 28px; color: #FFC107; font-weight: 600; margin-top: 40px; margin-bottom: 20px;">📂 <strong>Portfolio Highlights</strong></h2>
