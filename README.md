@@ -17,30 +17,30 @@ Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technol
 
 <section style="text-align: center; padding: 40px 20px; font-family: 'Arial', sans-serif; background-color: #f4f4f9; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); max-width: 800px; margin: auto;">
 
-  <!-- Looking to Collaborate Section -->
+ <!-- Looking to Collaborate Section -->
 <h2 style="font-size: 28px; color: #FF9800; font-weight: 600; margin-bottom: 20px;">👯 <strong>Looking to Collaborate On</strong></h2>
 <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333; line-height: 1.8;">
-  <li> <strong>Data Analysis Projects</strong> involving actionable insights.</li>
-  <li> <strong>Flask-Based Applications</strong>, especially those requiring interactive dashboards.</li>
-  <li> <strong>Python Automation</strong> for streamlining workflows and tasks.</li>
+  <li> <strong>Data Analysis Projects</strong>: Delivering actionable insights through data-driven solutions.</li>
+  <li> <strong>Flask Applications</strong>: Developing dynamic, interactive web applications with Flask.</li>
+  <li> <strong>Python Automation</strong>: Streamlining processes through efficient Python scripts.</li>
 </ul>
 
 <!-- Ask Me About Section -->
-<h2 style="font-size: 28px; color: #2196F3; font-weight: 600; margin-top: 40px; margin-bottom: 20px;">💬 <strong>Ask me about</strong></h2>
+<h2 style="font-size: 28px; color: #2196F3; font-weight: 600; margin-top: 40px; margin-bottom: 20px;">💬 <strong>Ask Me About</strong></h2>
 <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333; line-height: 1.8;">
-  <li> <strong>Crafting efficient SQL queries</strong> for large datasets.</li>
-  <li> <strong>Data Cleaning & Preprocessing</strong> techniques.</li>
-  <li> <strong>Writing Python scripts</strong> for automation and analysis.</li>
+  <li> <strong>Optimizing SQL Queries</strong> for handling large and complex datasets.</li>
+  <li> <strong>Data Cleaning & Preprocessing</strong> techniques to ensure data quality and accuracy.</li>
+  <li> <strong>Python Scripting</strong> for data automation and analysis tasks.</li>
 </ul>
-
 
 <!-- Portfolio Highlights Section -->
 <h2 style="font-size: 28px; color: #FFC107; font-weight: 600; margin-top: 40px; margin-bottom: 20px;">📂 <strong>Portfolio Highlights</strong></h2>
 <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333; line-height: 1.8;">
-  <li> <strong>Swiggy Restaurant Data Analysis</strong>: Strategic insights from complex datasets.</li>
-  <li> <strong>EDA with Pandas</strong>: Data trends and patterns using Jupyter Notebook.</li>
-  <li> <strong>Flask Email Campaign</strong>: Automating personalized email generation.</li>
+  <li> <strong>Swiggy Restaurant Data Analysis</strong>: Gaining strategic insights from complex datasets for business decisions.</li>
+  <li> <strong>Exploratory Data Analysis (EDA) with Pandas</strong>: Uncovering data patterns and trends in Jupyter Notebook.</li>
+  <li> <strong>Flask Email Campaign</strong>: Automating personalized email generation for marketing campaigns.</li>
 </ul>
+
 
 <h2 align="center"> Connect with me on :  </h2>
 
