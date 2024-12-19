@@ -83,6 +83,11 @@ Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technol
   <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 </p>
 
+<table align="center">
+  <tr>
+    <td>
 ![Thirunavukarasu11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thirunavukarasu11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+ </td>
+    <td>
 
 
