@@ -86,8 +86,10 @@ Hi, I'm Thirunavukarasu! A data-driven problem solver with a passion for technol
 <table align="center">
   <tr>
     <td>
-![Thirunavukarasu11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thirunavukarasu11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
- </td>
-    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thirunavukarasu11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Thirunavukarasu11's Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
 
